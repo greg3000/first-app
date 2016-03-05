@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/home/g/web-apps/first-app/env/bin/python 
 import os
 import sys
 

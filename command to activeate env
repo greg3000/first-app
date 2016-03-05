@@ -1,0 +1,6 @@
+source ./env/bin/activate
+
+to run server need to use sudo e.g.
+
+sudo python manage.py runserver
+
